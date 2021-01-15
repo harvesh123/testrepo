@@ -6,7 +6,7 @@
 trigger:
 - master
 
-pool: 'MyLaptop'
+pool: MyLaptop
 
 steps:
 - script: echo Hello, world!
